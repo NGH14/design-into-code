@@ -33,6 +33,7 @@ Each project resides in its own folder. Inside each project folder, you'll typic
 
 *   `index.html`: The main HTML file.
 *   `style.css`: The CSS stylesheet.
-*   `script.js` (if applicable): The JavaScript file.
-*   `assets/` (if applicable): A folder containing images, fonts, and other assets.
-*   `design/` (if applicable): A folder containing the original design files (Figma links, screenshots, etc.) 
+*   `script.js` _(if applicable)_: The JavaScript file.
+*   `assets/` _(if applicable)_: A folder containing images, fonts, and other assets.
+*   `design/` _(if applicable)_: A folder containing the original design files (Figma links, screenshots, etc.) 
+0
