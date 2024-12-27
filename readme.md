@@ -1,6 +1,6 @@
 # My Design to HTML Collection 🎨➡️💻
 
-This repository showcases my personal journey and collection of projects where I've converted design mockups (Figma, PSD, etc.) into functional HTML, CSS, and sometimes JavaScript. It's a place to track my progress, share my code, and hopefully inspire others learning front-end development.
+This repository showcases my personal journey and collection of projects where I've converted design mockups (Figma, PSD, etc.) into functional HTML, CSS, and sometimes JavaScript and SCSS. It's a place to track my progress, share my code, and hopefully inspire others learning front-end development.
 
 ## What you'll find here ✨
 
@@ -13,6 +13,7 @@ This repository showcases my personal journey and collection of projects where I
 
 *   **HTML:** The foundation of all web pages.
 *   **CSS:** For styling and layout.
+*   **SCSS:** CSS preprocessor.
 *   **JavaScript (sometimes):** For interactive elements and dynamic functionality.
 *   **Figma/PSD/PNG (source designs):** The design tools used to create the original mockups.
 *   **Responsive Design Principles:** Ensuring compatibility across different devices.
