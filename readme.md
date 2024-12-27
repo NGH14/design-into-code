@@ -37,4 +37,4 @@ Each project resides in its own folder. Inside each project folder, you'll typic
 *   `script.js` _(if applicable)_: The JavaScript file.
 *   `assets/` _(if applicable)_: A folder containing images, fonts, and other assets.
 *   `design/` _(if applicable)_: A folder containing the original design files (Figma links, screenshots, etc.) 
-0
+
