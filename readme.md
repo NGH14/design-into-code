@@ -4,7 +4,7 @@ This repository showcases my personal journey and collection of projects where I
 
 ## What you'll find here ✨
 
-*   **Diverse Projects:** A variety of projects ranging from simple landing pages to more complex web applications.
+*   **Diverse Projects:** A variety of projects ranging from simple landing pages to more "complex web applications" (hope so).
 *   **Clean and Organized Code:** I strive to write well-structured and maintainable code, making it easy to understand and learn from.
 *   **Real-world Examples:** Practical examples of how to implement different design patterns and layouts.
 *   **Progress Tracking:** This repo acts as a portfolio of my front-end development skills.
