@@ -21,7 +21,7 @@ This repository showcases my personal journey and collection of projects where I
 
 |No|Project| Description|
 |-|-|-|
-|1|[Besnik Agency](./besnik_agency/)| The basic landing page for apply the knowledge in HTML semantic, CSS layout and custom assets including elements, icons, fonts etc.|
+|1|[Besnik Agency](./besnik-agency/)| The basic landing page for apply the knowledge in HTML semantic, CSS layout and custom assets including elements, icons, fonts etc.|
 
 
 ## Project Structure 📂
