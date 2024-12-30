@@ -1,7 +1,7 @@
 ![Design of Besnik](./assets/hero_section.png)
 
 # Besnik Agency Landing Page
-Besnik Agency  is the basic landing page for apply the knowledge in HTML semantic, css layout and custom assets including elements, icons, etc.
+Besnik Agency  is the basic landing page for apply the knowledge in HTML semantic, css layout and custom assets including elements, icons, fonts, etc.
 
 
 ### Design Assets:
