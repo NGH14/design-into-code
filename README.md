@@ -1,6 +1,13 @@
 # My Design to HTML Collection 🎨➡️💻🐍 
 
-This repository showcases my personal journey and collection of projects where I've converted design mockups (Figma, PSD, etc.) into functional HTML, CSS, and sometimes JavaScript and SCSS. It's a place to track my progress, share my code, and hopefully inspire others learning front-end development.
+This repository showcases my personal journey and collection of projects where I've converted design mockups (Figma, PSD, etc.) into functional HTML, CSS, and sometimes JavaScript and SCSS. It's a place to track my progress, share my code, and hopefully inspire someones l
+
+## Table of Project 📑
+
+|No|Project| Description| |
+|-|-|-|-|
+|1|[Besnik Estate](./besnik-estate/)| The basic landing page for apply the knowledge in HTML semantic, CSS layout and custom assets including elements, icons, fonts etc.| [Preview](https://ngh14.github.io/design-into-code/besnik-estate/) |
+
 
 ## Technologies Used 🛠️
 
@@ -17,11 +24,6 @@ This repository showcases my personal journey and collection of projects where I
 2.  **Navigate to the project folder:** `cd <PROJECT_FOLDER>` (change the PROJECT_FOLDER with specific folder name)
 3.  **Open the `index.html` file in your browser:** This will display the converted HTML page.
 
-## Table of project 📑
-
-|No|Project| Description| |
-|-|-|-|-|
-|1|[Besnik Agency](./besnik-agency/)| The basic landing page for apply the knowledge in HTML semantic, CSS layout and custom assets including elements, icons, fonts etc.| [Preview](https://ngh14.github.io/design-into-code/besnik-agency/) |
 
 
 ## Project Structure 📂
