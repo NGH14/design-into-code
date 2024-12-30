@@ -9,6 +9,9 @@ Besnik Agency  is the basic landing page for apply the knowledge in HTML semanti
 - Google Fonts [Poppins](https://fonts.google.com/specimen/Poppins).
 
 
+![Design of Besnik](./assets/hero_section.png)
+
+
 
 
 
