@@ -6,7 +6,7 @@ This repository showcases my personal journey and collection of projects where I
 
 |No|Project| Description| |
 |-|-|-|-|
-|1|[Besnik Estate](./besnik-estate/)| The basic landing page for apply the knowledge in HTML semantic, CSS layout and custom assets including elements, icons, fonts etc.| [Preview](https://ngh14.github.io/design-into-code/besnik-estate/) |
+|1|[Besnik Estate](./besnik-estate/)| The basic landing page for apply the knowledge in HTML semantic, CSS layout and custom assets including elements, icons, fonts etc.| [Demo](https://ngh14.github.io/design-into-code/besnik-estate/) |
 
 
 ## Technologies Used 🛠️
@@ -22,8 +22,6 @@ This repository showcases my personal journey and collection of projects where I
 
 1.  **Clone the repository:** `git clone https://github.com/NGH14/design-into-code.git` or `git@github.com:NGH14/design-into-code.git`
 2.  **Navigate to the project folder:** `cd <PROJECT_FOLDER>` (change the PROJECT_FOLDER with specific folder name)
-3.  **Open the `index.html` file in your browser:** This will display the converted HTML page.
-
 
 
 ## Project Structure 📂
