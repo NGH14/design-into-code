@@ -1,4 +1,4 @@
-/* =========== Poppins =========== */
+/* ------- Poppins -------- */
 @font-face {
 	font-family: 'Poppins';
 	src: url('../assets/fonts/Poppins/Poppins-Bold.woff') format('woff2'),
@@ -164,12 +164,12 @@
 	font-display: swap;
 }
 
-
+/* ----- Lato ------ */
 
 @font-face {
-  font-family: 'latobold';
-  src: url('lato-bold-webfont.woff2') format('woff2'),
-    url('lato-bold-webfont.woff') format('woff');
+  font-family: 'Lato';
+  src: url('../assets/fonts/Lato/Lato-Bold.woff2') format('woff2'),
+    url('../asset/fonts/Lato/Lato-Bold.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
