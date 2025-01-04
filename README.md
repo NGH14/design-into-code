@@ -1,6 +1,8 @@
 # My Design to Code Collection 🎨➡️💻🐍 
 
-This repository showcases my personal journey and collection of projects where I've converted design mockups (Figma, PSD, etc.) into functional HTML, CSS, and sometimes JavaScript and SCSS. It's a place to track my progress, share my code, and hopefully inspire someones l
+This repository showcases my personal journey and collection of projects where I've converted design mockups (Figma, PSD, etc.) into functional HTML, CSS, and sometimes JavaScript and SCSS. It's a place to track my progress, share my code, and hopefully inspire someones.
+
+*_I also have the [daily-component]() for convert the design of tiny component or single part of website every single day._*
 
 ## Table of Project 📑
 
